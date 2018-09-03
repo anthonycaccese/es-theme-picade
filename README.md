@@ -1,4 +1,4 @@
-# PiCade, an EmulationStation theme
+# Picade, an EmulationStation theme
 A theme for the new [Picade](https://shop.pimoroni.com/products/picade) from Pimoroni to use with Emulation Station and RetroPie.
 
 ## Preview
@@ -14,10 +14,10 @@ A theme for the new [Picade](https://shop.pimoroni.com/products/picade) from Pim
 ## Details
 
 - Built specifically for the [Picade](https://shop.pimoroni.com/products/picade) and its display resolution of 1024x768
+- Support for "All Games", "Favorites", "Last Played" and "Custom Collections" features in latest version of EmulationStation
 - Full list of supported systems: https://docs.google.com/spreadsheets/d/1gzaP0klzaBaE5_oB1_hQwr46qOmQnacSvSU3o-p5Q7U/edit#gid=0
-- Has many custom themes as well - mario (Super Mario Bros), zelda (Legend of Zelda), megaman, etc... (see "custom themes" tab in the google doc above for the full list) 
+- Supports many custom collection themes such as mario (Super Mario Bros), zelda (Legend of Zelda), megaman, etc... (see "custom themes" tab in the google doc above for the full list) 
 - System, basic, detailed and video views are supported
-- Support for new "All Games", "Favorites", "Last Played" and "Custom Collections" features in latest version of EmulationStation
 
 ## Acknowledgments
 
