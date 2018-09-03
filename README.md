@@ -1,5 +1,5 @@
 # Picade, an EmulationStation theme
-A theme for the new [Picade](https://shop.pimoroni.com/products/picade) from Pimoroni to use with Emulation Station and RetroPie.
+A theme for the new [Picade](https://shop.pimoroni.com/products/picade) from Pimoroni to use with Emulation Station and RetroPie.  Discussion is ongoing in this thread: https://retropie.org.uk/forum/topic/19118/picade-theme-wip
 
 ## Preview
 
@@ -10,6 +10,10 @@ A theme for the new [Picade](https://shop.pimoroni.com/products/picade) from Pim
 *Detailed & Video View*
 
 ![Detailed View](https://i.imgur.com/44ImH5ul.png)
+
+*In Person*
+
+![System View](https://i.imgur.com/5UMG9ztm.jpg)
 
 ## Details
 
