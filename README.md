@@ -25,5 +25,6 @@ A theme for the new [Picade](https://shop.pimoroni.com/products/picade) from Pim
 
 ## Acknowledgments
 
+- Splashscreen (see splashscreen.png in /\_inc/images) created by quicksilver from the retropie forums [[source](https://retropie.org.uk/forum/post/175052)]
 - System logos modified from the Carbom theme by Eric Hettervik
 - Worksans-Bold font by [Wei Huang](https://fonts.google.com/specimen/Work+Sans)
